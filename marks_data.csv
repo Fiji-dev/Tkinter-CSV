@@ -1,0 +1,17 @@
+Student ID,Student Name,Module Code,Module Name,Coursework Mark 1,Coursework Mark 2,Coursework Mark 3,Gender,Date of Entry,Total Marks
+CLD2024001,Sakhiyya,2090,Cloud computing,90,99,95,Female,07/09/2024,284
+CLD2024002,Kevin,2090,Cloud Computing,89,34,55,Male,09/03/2024,178
+PM12022001,James,4040,Python Methodology 1,89,44,56,Male,08/04/2024,189
+IOT2345001,Paul,3021,Internet of Things,90,67,23,Male,09/07/2024,180
+IOT2345002,Divyesh,3021,Internet of Things,55,89,34,Male,09/07/2024,178
+BDA2024001,Akshee,9060,Big Data Architecture,89,76,89,Female,04/03/2024,254
+BDA2024002,Immanuel,9060,Big Data Architecture,90,88,56,Male,04/03/2024,234
+IOT2345002,Lavish,3021,Internet of Things,87,89,77,Male,07/09/2024,253
+PM12022002,Deevesh,4040,Python Methodology 1,98,77,48,Male,06/11/2024,223
+PM12022003,Kevin,4040,Python Methodology 1,89,56,34,Male,11/11/2022,179
+AI8998001,May,2525,Artificial Intelligence,89,67,90,Female,09/03/2024,246
+AI8998002,Anna,2525,Artificial Intelligence,87,67,98,Female,03/03/2023,252
+AI8998003,Johnny,2525,Artificial Intelligence,45,67,78,Male,24/09/2024,190
+BDA2024003,Yaashna,9060,Big Data Architecture,89,67,98,Female,25/10/2024,254
+CLD2024003,Jo,2090,Cloud computing,78,67,55,Male,25/05/2024,200
+PM12022004,Shehaab,4040,Python Methodology 1,89,67,99,Male,30/11/2024,255
